@@ -1,0 +1,38 @@
+.bg-color{
+    background-color: #0a97b0 !important;
+    color: white!important;
+}
+.color-white{
+    color: white!important;
+}
+.outline-white{
+    border: 1px solid white!important;
+}
+.header {
+    background-attachment: fixed;
+    height: 340px;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../images/sky\ blue\ image.jpg);
+    background-repeat: no-repeat;
+color: #FF69BF;
+  }
+  .a-h {
+    font-family: "Times New Roman", Times, serif;
+    font-style: oblique;
+    text-align: center;
+    color: #FF69BF!important;
+  }
+  .banner_h {
+    color: black;
+    font-size: 50px;
+  }
+  .var{
+    background-color: #0a97b0!important;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }

@@ -1,0 +1,53 @@
+.bg-color{
+    background-color: #0a97b0 !important;
+    color: white!important;
+}
+.color-white{
+    color: white!important;
+}
+.outline-white{
+    border: 1px solid white!important;
+}
+.header {
+    background-attachment: fixed;
+    height: 350px;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../images/background\ pic.jpg);
+    background-repeat: no-repeat;
+  }
+  
+  .a-h {
+    font-family: "Times New Roman", Times, serif;
+    font-style: oblique;
+    text-align: center;
+    color: #FF69BF;
+
+  }
+  body{
+      overflow-x: hidden;
+  }
+  .banner_h {
+    color: black;
+    font-size: 50px;
+  }
+  .para{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 200px;
+    margin-right: 100px;
+  }
+  .var{
+    background-color: darkgreen;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+.a-h,h5{
+    font-size: 30px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
